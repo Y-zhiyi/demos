@@ -8,6 +8,8 @@ public class Stream {
         System.out.println(4123);
 
         System.out.println(888888);
+        System.out.println("squash");
 
+        System.out.println("squash2");
     }
 }
