@@ -13,5 +13,7 @@ public class Stream {
         System.out.println("squash2");
 
         System.out.println("git reabase 1");
+
+        System.out.println("git_rebase_2");
     }
 }
