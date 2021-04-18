@@ -6,5 +6,8 @@ public class Stream {
         System.out.println(1213);
         System.out.println(12312);
         System.out.println(4123);
+
+        System.out.println(888888);
+
     }
 }
